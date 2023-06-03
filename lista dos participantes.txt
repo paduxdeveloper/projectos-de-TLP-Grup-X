@@ -1,0 +1,20 @@
+
+Disciplina: Técnicas de linguagem e programação
+Classe: 11ª
+Sala: 71
+Turma: II11A
+Turno: Manhã
+Curso: Técnico de informatíca
+
+
+Grupo nº 10
+Nº	Nome	Nota
+
+Nº 02	Alberto bumba francisco julio	
+Nº 24	Fernando eduardo afonso	
+Nº 27	Henriques candala	
+Nº 49	Graca Mutunda 	
+Nº 29	Isabel André 	
+
+Ñ part
+Nº 47 Cristina
