@@ -1,0 +1,40 @@
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe.config
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.pdb
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\Interop.WMPLib.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Interop.WMPLib.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.ResolveComReference.cache
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.exe
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.pdb
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\nds-DE\Reprodutor.resources.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\bin\Debug\pt-AO\Reprodutor.resources.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.nds-DE.resources
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.pt-AO.resources
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\nds-DE\Reprodutor.resources.dll
+C:\Users\CARLOS MORAIS\Music\Isabel\Reprodutor\Reprodutor\obj\Debug\pt-AO\Reprodutor.resources.dll
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe.config
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Interop.WMPLib.dll
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\AxInterop.WMPLib.dll
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.ResolveComReference.cache
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.exe
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.pdb
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.exe
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\Reprodutor.pdb
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\nds-DE\Reprodutor.resources.dll
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\pt-AO\Reprodutor.resources.dll
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\Interop.WMPLib.dll
+D:\Isabel\Reprodutor\Reprodutor\bin\Debug\AxInterop.WMPLib.dll
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csprojResolveAssemblyReference.cache
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.resources
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Properties.Resources.resources
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.nds-DE.resources
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.Form1.pt-AO.resources
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\Reprodutor.csproj.GenerateResource.Cache
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\nds-DE\Reprodutor.resources.dll
+D:\Isabel\Reprodutor\Reprodutor\obj\Debug\pt-AO\Reprodutor.resources.dll

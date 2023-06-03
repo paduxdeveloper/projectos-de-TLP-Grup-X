@@ -1,0 +1,16 @@
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\bin\Debug\Inforplay.exe.config
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\bin\Debug\Inforplay.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\bin\Debug\Inforplay.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.csprojResolveAssemblyReference.cache
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Form1.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Properties.Resources.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.csproj.GenerateResource.Cache
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Form2.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Form3.resources
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Form4.resources
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Inforplay\Inforplay\obj\Debug\Inforplay.Form1_2.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\Inforplay\Inforplay\bin\Debug\Inforplay.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\Inforplay\Inforplay\obj\Debug\Inforplay.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\Inforplay\Inforplay\obj\Debug\Inforplay.pdb
