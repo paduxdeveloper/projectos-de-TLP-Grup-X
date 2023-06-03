@@ -1,0 +1,27 @@
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\bin\Debug\browserapp.exe.config
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\bin\Debug\browserapp.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\bin\Debug\browserapp.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.Form1.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.Properties.Resources.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.csproj.GenerateResource.Cache
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.pdb
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\browserapp\browserapp\obj\Debug\browserapp.csprojResolveAssemblyReference.cache
+D:\Projects\browserapp\browserapp\bin\Debug\browserapp.exe.config
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.exe
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.pdb
+D:\Projects\browserapp\browserapp\bin\Debug\browserapp.exe
+D:\Projects\browserapp\browserapp\bin\Debug\browserapp.pdb
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.csprojResolveAssemblyReference.cache
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.Form1.resources
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.Properties.Resources.resources
+D:\Projects\browserapp\browserapp\obj\Debug\browserapp.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\bin\Debug\browserapp.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\bin\Debug\browserapp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\bin\Debug\browserapp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.Form1.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.Properties.Resources.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\browserapp\browserapp\obj\Debug\browserapp.csproj.GenerateResource.Cache
