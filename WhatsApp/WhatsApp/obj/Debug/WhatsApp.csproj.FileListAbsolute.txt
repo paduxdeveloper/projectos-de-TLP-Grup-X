@@ -1,0 +1,21 @@
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\bin\Debug\WhatsApp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.Form1.resources
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.Properties.Resources.resources
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\Aulas\WhatsApp\WhatsApp\obj\Debug\WhatsApp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\WhatsApp\WhatsApp\obj\Debug\WhatsApp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP\WhatsApp\WhatsApp\obj\Debug\WhatsApp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\bin\Debug\WhatsApp.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.Form1.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.Properties.Resources.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\WhatsApp\WhatsApp\obj\Debug\WhatsApp.csproj.GenerateResource.Cache
