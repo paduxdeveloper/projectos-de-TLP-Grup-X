@@ -1,0 +1,18 @@
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\bin\Debug\Despertador001.exe.config
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\bin\Debug\Despertador001.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\bin\Debug\Despertador001.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.Properties.Resources.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.csproj.GenerateResource.Cache
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.Form_alarme.resources
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Despertador001\Despertador001\obj\Debug\Despertador001.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\bin\Debug\Despertador001.exe.config
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\bin\Debug\Despertador001.exe
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\bin\Debug\Despertador001.pdb
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.Form_alarme.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.Properties.Resources.resources
+C:\Users\Admin\Documents\Projects\programas em c#\projectos de TLP Grup X\Despertador001\Despertador001\obj\Debug\Despertador001.csproj.GenerateResource.Cache

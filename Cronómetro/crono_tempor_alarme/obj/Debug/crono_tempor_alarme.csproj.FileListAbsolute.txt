@@ -1,0 +1,27 @@
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe.config
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.pdb
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Form1.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Properties.Resources.resources
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csproj.GenerateResource.Cache
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.exe
+c:\users\xavier eduardo\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.pdb
+C:\Users\XAVIER EDUARDO\documents\visual studio 2015\Projects\crono_tempor_alarme\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csprojResolveAssemblyReference.cache
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe.config
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.exe
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.pdb
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.pdb
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csprojResolveAssemblyReference.cache
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Form1.resources
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Properties.Resources.resources
+C:\Users\XAVIER EDUARDO\Documents\Visual Studio 2015\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csproj.GenerateResource.Cache
+D:\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe.config
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.exe
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.pdb
+D:\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.exe
+D:\Projects\Cronómetro\crono_tempor_alarme\bin\Debug\crono_tempor_alarme.pdb
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csprojResolveAssemblyReference.cache
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Form1.resources
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.Properties.Resources.resources
+D:\Projects\Cronómetro\crono_tempor_alarme\obj\Debug\crono_tempor_alarme.csproj.GenerateResource.Cache
